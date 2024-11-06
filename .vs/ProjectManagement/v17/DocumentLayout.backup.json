@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LAPTRINH\\ProjectManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{362D0E3D-C8B1-4EE6-B287-9BE1E56348C5}|ProductManagementClientAPI\\ProductManagementClientAPI.csproj|d:\\laptrinh\\projectmanagement\\productmanagementclientapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{362D0E3D-C8B1-4EE6-B287-9BE1E56348C5}|ProductManagementClientAPI\\ProductManagementClientAPI.csproj|solutionrelative:productmanagementclientapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE207840-AA76-4344-826C-BE8771D01B76}|ProductManagementClient\\ProductManagementClient.csproj|d:\\laptrinh\\projectmanagement\\productmanagementclient\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE207840-AA76-4344-826C-BE8771D01B76}|ProductManagementClient\\ProductManagementClient.csproj|solutionrelative:productmanagementclient\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F05EA54-D03C-4284-988B-3DFB6E675021}|BusinessObject\\BusinessObject.csproj|d:\\laptrinh\\projectmanagement\\businessobject\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F05EA54-D03C-4284-988B-3DFB6E675021}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F05EA54-D03C-4284-988B-3DFB6E675021}|BusinessObject\\BusinessObject.csproj|d:\\laptrinh\\projectmanagement\\businessobject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F05EA54-D03C-4284-988B-3DFB6E675021}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F05EA54-D03C-4284-988B-3DFB6E675021}|BusinessObject\\BusinessObject.csproj|d:\\laptrinh\\projectmanagement\\businessobject\\models\\prn221dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F05EA54-D03C-4284-988B-3DFB6E675021}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\prn221dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F05EA54-D03C-4284-988B-3DFB6E675021}|BusinessObject\\BusinessObject.csproj|d:\\laptrinh\\projectmanagement\\businessobject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F05EA54-D03C-4284-988B-3DFB6E675021}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F05EA54-D03C-4284-988B-3DFB6E675021}|BusinessObject\\BusinessObject.csproj|d:\\laptrinh\\projectmanagement\\businessobject\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F05EA54-D03C-4284-988B-3DFB6E675021}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F05EA54-D03C-4284-988B-3DFB6E675021}|BusinessObject\\BusinessObject.csproj|d:\\laptrinh\\projectmanagement\\businessobject\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F05EA54-D03C-4284-988B-3DFB6E675021}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE207840-AA76-4344-826C-BE8771D01B76}|ProductManagementClient\\ProductManagementClient.csproj|d:\\laptrinh\\projectmanagement\\productmanagementclient\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE207840-AA76-4344-826C-BE8771D01B76}|ProductManagementClient\\ProductManagementClient.csproj|solutionrelative:productmanagementclient\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE207840-AA76-4344-826C-BE8771D01B76}|ProductManagementClient\\ProductManagementClient.csproj|d:\\laptrinh\\projectmanagement\\productmanagementclient\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE207840-AA76-4344-826C-BE8771D01B76}|ProductManagementClient\\ProductManagementClient.csproj|solutionrelative:productmanagementclient\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE207840-AA76-4344-826C-BE8771D01B76}|ProductManagementClient\\ProductManagementClient.csproj|d:\\laptrinh\\projectmanagement\\productmanagementclient\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE207840-AA76-4344-826C-BE8771D01B76}|ProductManagementClient\\ProductManagementClient.csproj|solutionrelative:productmanagementclient\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362D0E3D-C8B1-4EE6-B287-9BE1E56348C5}|ProductManagementClientAPI\\ProductManagementClientAPI.csproj|d:\\laptrinh\\projectmanagement\\productmanagementclientapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362D0E3D-C8B1-4EE6-B287-9BE1E56348C5}|ProductManagementClientAPI\\ProductManagementClientAPI.csproj|solutionrelative:productmanagementclientapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE207840-AA76-4344-826C-BE8771D01B76}|ProductManagementClient\\ProductManagementClient.csproj|d:\\laptrinh\\projectmanagement\\productmanagementclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE207840-AA76-4344-826C-BE8771D01B76}|ProductManagementClient\\ProductManagementClient.csproj|solutionrelative:productmanagementclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362D0E3D-C8B1-4EE6-B287-9BE1E56348C5}|ProductManagementClientAPI\\ProductManagementClientAPI.csproj|d:\\laptrinh\\projectmanagement\\productmanagementclientapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362D0E3D-C8B1-4EE6-B287-9BE1E56348C5}|ProductManagementClientAPI\\ProductManagementClientAPI.csproj|solutionrelative:productmanagementclientapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B91E65-AF18-4036-95AB-E6054D40664D}|Repositories\\Repositories.csproj|d:\\laptrinh\\projectmanagement\\repositories\\business\\productbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B91E65-AF18-4036-95AB-E6054D40664D}|Repositories\\Repositories.csproj|solutionrelative:repositories\\business\\productbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B91E65-AF18-4036-95AB-E6054D40664D}|Repositories\\Repositories.csproj|d:\\laptrinh\\projectmanagement\\repositories\\interfaces\\iproductbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B91E65-AF18-4036-95AB-E6054D40664D}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\iproductbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB9D8C0-6EAE-4D96-BD47-3DC540AFC427}|DataAccess\\DataAccess.csproj|d:\\laptrinh\\projectmanagement\\dataaccess\\interfaces\\iproductdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB9D8C0-6EAE-4D96-BD47-3DC540AFC427}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interfaces\\iproductdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB9D8C0-6EAE-4D96-BD47-3DC540AFC427}|DataAccess\\DataAccess.csproj|d:\\laptrinh\\projectmanagement\\dataaccess\\daos\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB9D8C0-6EAE-4D96-BD47-3DC540AFC427}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\daos\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F05EA54-D03C-4284-988B-3DFB6E675021}|BusinessObject\\BusinessObject.csproj|d:\\laptrinh\\projectmanagement\\businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F05EA54-D03C-4284-988B-3DFB6E675021}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\BusinessObject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Category.cs",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\BusinessObject\\Models\\Category.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Category.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:34:09.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsetting.json",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\BusinessObject\\appsetting.json",
+              "RelativeDocumentMoniker": "BusinessObject\\appsetting.json",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\BusinessObject\\appsetting.json*",
+              "RelativeToolTip": "BusinessObject\\appsetting.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T03:18:15.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prn221DbContext.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\BusinessObject\\Models\\Prn221DbContext.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Prn221DbContext.cs",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\BusinessObject\\Models\\Prn221DbContext.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Prn221DbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:12:47.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\BusinessObject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Models\\Product.cs",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\BusinessObject\\Models\\Product.cs",
+              "RelativeToolTip": "BusinessObject\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:20:53.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\ProductManagementClient\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductManagementClient\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\ProductManagementClient\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductManagementClient\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:44:04.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\ProductManagementClientAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagementClientAPI\\appsettings.json",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\ProductManagementClientAPI\\appsettings.json*",
+              "RelativeToolTip": "ProductManagementClientAPI\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T09:54:01.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\BusinessObject\\DTO\\ProductDto.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\ProductDto.cs",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\BusinessObject\\DTO\\ProductDto.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:22:06.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\BusinessObject\\DTO\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\CategoryDto.cs",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\BusinessObject\\DTO\\CategoryDto.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:19:20.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\ProductManagementClient\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementClient\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\ProductManagementClient\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProductManagementClient\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:48:28.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\ProductManagementClient\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementClient\\Views\\Product\\Update.cshtml",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\ProductManagementClient\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "ProductManagementClient\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:48:33.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\ProductManagementClientAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductManagementClientAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\ProductManagementClientAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductManagementClientAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:56:53.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\ProductManagementClient\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementClient\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\ProductManagementClient\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProductManagementClient\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T11:48:22.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\ProductManagementClient\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagementClient\\Program.cs",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\ProductManagementClient\\Program.cs",
+              "RelativeToolTip": "ProductManagementClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:51:57.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\ProductManagementClientAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagementClientAPI\\Program.cs",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\ProductManagementClientAPI\\Program.cs",
+              "RelativeToolTip": "ProductManagementClientAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:51:04.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDao.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\DataAccess\\DAOS\\ProductDao.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAOS\\ProductDao.cs",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\DataAccess\\DAOS\\ProductDao.cs",
+              "RelativeToolTip": "DataAccess\\DAOS\\ProductDao.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:40:24.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IproductDao.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\DataAccess\\Interfaces\\IproductDao.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interfaces\\IproductDao.cs",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\DataAccess\\Interfaces\\IproductDao.cs",
+              "RelativeToolTip": "DataAccess\\Interfaces\\IproductDao.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:17:18.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductBusiness.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\Repositories\\Business\\ProductBusiness.cs",
+              "RelativeDocumentMoniker": "Repositories\\Business\\ProductBusiness.cs",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\Repositories\\Business\\ProductBusiness.cs",
+              "RelativeToolTip": "Repositories\\Business\\ProductBusiness.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:08:58.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductBusiness.cs",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\Repositories\\Interfaces\\IProductBusiness.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IProductBusiness.cs",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\Repositories\\Interfaces\\IProductBusiness.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IProductBusiness.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:10:26.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BusinessObject.csproj",
+              "DocumentMoniker": "D:\\LAPTRINH\\ProjectManagement\\BusinessObject\\BusinessObject.csproj",
+              "RelativeDocumentMoniker": "BusinessObject\\BusinessObject.csproj",
+              "ToolTip": "D:\\LAPTRINH\\ProjectManagement\\BusinessObject\\BusinessObject.csproj",
+              "RelativeToolTip": "BusinessObject\\BusinessObject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T08:30:10.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

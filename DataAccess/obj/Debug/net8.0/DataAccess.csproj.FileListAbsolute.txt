@@ -1,0 +1,15 @@
+D:\LAPTRINH\ProjectManagement\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\LAPTRINH\ProjectManagement\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAPTRINH\ProjectManagement\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\LAPTRINH\ProjectManagement\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\LAPTRINH\ProjectManagement\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\LAPTRINH\ProjectManagement\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\LAPTRINH\ProjectManagement\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\LAPTRINH\ProjectManagement\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\LAPTRINH\ProjectManagement\DataAccess\bin\Debug\net8.0\BusinessObject.dll
+D:\LAPTRINH\ProjectManagement\DataAccess\bin\Debug\net8.0\BusinessObject.pdb
+D:\LAPTRINH\ProjectManagement\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+D:\LAPTRINH\ProjectManagement\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\LAPTRINH\ProjectManagement\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\LAPTRINH\ProjectManagement\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\LAPTRINH\ProjectManagement\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
